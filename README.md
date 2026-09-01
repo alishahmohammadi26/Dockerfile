@@ -187,3 +187,5 @@ This repo is a work in progress. Do not run containers created from these source
 - [`logback` "pattern" Reference](http://logback.qos.ch/manual/layouts.html#conversionWord)
 - [`log4j2` "pattern" Reference](https://logging.apache.org/log4j/log4j-2.0/manual/layouts.html)
 - [`log4j` Migration Reference](https://logging.apache.org/log4j/2.x/manual/migration.html)
+
+<!-- maintained-note: keep this repo tidy -->
